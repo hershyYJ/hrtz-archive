@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root {
+  width: 100%;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  font-family: Inter, Pretendard, system-ui, sans-serif;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+::selection {
+  background: #32C8FA;
+  color: white;
+}
+
+.primary {
+  color: #32C8FA;
+}
