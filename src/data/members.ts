@@ -33,6 +33,7 @@ export type Song = {
         { title: "Treat You Better", artist: "Shawn Mendes" },
         { title: "summer on the inside", artist: "warner case, Jean Tonique & Max Kaluza" },
         { title: "come over", artist: "joan" },
+        { title: "REDLINE DASH", artist: "Skrillex" },
       ],
     },
     {
@@ -53,6 +54,7 @@ export type Song = {
         { title: "Teacher", artist: "PRETTYMUCH" },
         { title: "She Said", artist: "Dane" },
         { title: "Ben & Jerry (Feat. JUNNY)", artist: "Riaan" },
+        { title: "억지사랑 고집이별", artist: "희규" },
       ],
     },
     {
@@ -70,6 +72,7 @@ export type Song = {
         { title: "Say", artist: "keshi" },
         { title: "Champagne Supernova", artist: "Oasis" },
         { title: "Headlights", artist: "In Color" },
+        { title: "Who's Holding Donna Now?", artist: "DeBarge" },
       ],
     },
     {
