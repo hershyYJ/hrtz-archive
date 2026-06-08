@@ -34,6 +34,7 @@ export type Song = {
         { title: "summer on the inside", artist: "warner case, Jean Tonique & Max Kaluza" },
         { title: "come over", artist: "joan" },
         { title: "REDLINE DASH", artist: "Skrillex" },
+        { title: "Either Way, I'm Going Your Way", artist: "Valley" },
       ],
     },
     {
@@ -46,7 +47,7 @@ export type Song = {
         { title: "Superpowers", artist: "Daniel Caesar" },
         { title: "Make You Mine", artist: "Giveon" },
         { title: "What if we met at another place ?", artist: "OSUN" },
-        { title: "TOO CLOSE (feat. Suen)", artist: "DIMO REX" },
+        { title: "TOO CLOSE (Feat. Suen)", artist: "DIMO REX" },
         { title: "UNDERSTAND", artist: "keshi" },
         { title: "born to love you", artist: "88rising & SAYAK DAS" },
         { title: "I'VE FOUND YOU (Feat. hiko)", artist: "shinjihang" },
@@ -55,6 +56,8 @@ export type Song = {
         { title: "She Said", artist: "Dane" },
         { title: "Ben & Jerry (Feat. JUNNY)", artist: "Riaan" },
         { title: "억지사랑 고집이별", artist: "희규" },
+        { title: "~할때만 (Feat. JUNNY)", artist: "dress, Raf Sandou" },
+        { title: "MOYA", artist: "박재범, LNGSHOT" },
       ],
     },
     {
@@ -73,6 +76,7 @@ export type Song = {
         { title: "Champagne Supernova", artist: "Oasis" },
         { title: "Headlights", artist: "In Color" },
         { title: "Who's Holding Donna Now?", artist: "DeBarge" },
+        { title: "SAY MY NAME", artist: "DIMO REX" },
       ],
     },
     {
@@ -86,6 +90,7 @@ export type Song = {
         { title: "Home (feat. Hikaru Utada)", artist: "Charlie Puth" },
         { title: "らしさ (Rashisa)", artist: "Official髭男dism" },
         { title: "Eenie Meenie", artist: "Sean Kingston & Justin Bieber" },
+        { title: "What Makes You Beautiful", artist: "One Direction" },
       ],
     },
     {
@@ -98,6 +103,7 @@ export type Song = {
         { title: "サムライハート(Some Like It Hot!!)", artist: "SPYAIR" },
         { title: "青と夏 (Ao To Natsu)", artist: "Mrs. GREEN APPLE" },
         { title: "踊り子 (odoriko)", artist: "Vaundy" },
+        { title: "아주 NICE", artist: "세븐틴" },
       ],
     },
   ];
