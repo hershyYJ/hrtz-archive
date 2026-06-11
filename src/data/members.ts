@@ -77,6 +77,7 @@ export type Song = {
         { title: "Headlights", artist: "In Color" },
         { title: "Who's Holding Donna Now?", artist: "DeBarge" },
         { title: "SAY MY NAME", artist: "DIMO REX" },
+        { title: "You Are Not Alone", artist: "Michael Jackson" },
       ],
     },
     {
@@ -91,6 +92,7 @@ export type Song = {
         { title: "らしさ (Rashisa)", artist: "Official髭男dism" },
         { title: "Eenie Meenie", artist: "Sean Kingston & Justin Bieber" },
         { title: "What Makes You Beautiful", artist: "One Direction" },
+        { title: "The Way You Make Me Feel", artist: "Michael Jackson" },
       ],
     },
     {
