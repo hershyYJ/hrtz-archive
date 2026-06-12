@@ -58,6 +58,7 @@ export type Song = {
         { title: "억지사랑 고집이별", artist: "희규" },
         { title: "~할때만 (Feat. JUNNY)", artist: "dress, Raf Sandou" },
         { title: "MOYA", artist: "박재범, LNGSHOT" },
+        { title: "Heaven Can Wait", artist: "JUNNY" },
       ],
     },
     {
