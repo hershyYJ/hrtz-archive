@@ -94,6 +94,7 @@ export type Song = {
         { title: "Eenie Meenie", artist: "Sean Kingston & Justin Bieber" },
         { title: "What Makes You Beautiful", artist: "One Direction" },
         { title: "The Way You Make Me Feel", artist: "Michael Jackson" },
+        { title: "Changes", artist: "Charlie Puth" },
       ],
     },
     {
