@@ -108,7 +108,7 @@ export default function Home() {
 
       <div className="mt-6 z-10 text-center">
         <p className="text-xs text-gray-400 tracking-wide">
-          Last updated: 2026.06.17.
+          Last updated: 2026.06.21.
         </p>
       </div>
 
