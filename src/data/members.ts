@@ -95,6 +95,7 @@ export type Song = {
         { title: "What Makes You Beautiful", artist: "One Direction" },
         { title: "The Way You Make Me Feel", artist: "Michael Jackson" },
         { title: "Changes", artist: "Charlie Puth" },
+        { title: "Love On Top", artist: "Beyonce" },
       ],
     },
     {
