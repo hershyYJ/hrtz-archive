@@ -35,6 +35,7 @@ export type Song = {
         { title: "come over", artist: "joan" },
         { title: "REDLINE DASH", artist: "Skrillex" },
         { title: "Either Way, I'm Going Your Way", artist: "Valley" },
+        { title: "C.h.a.o.s.m.y.t.h.", artist: "ONE OK ROCK" },
       ],
     },
     {
@@ -59,6 +60,7 @@ export type Song = {
         { title: "~할때만 (Feat. JUNNY)", artist: "dress, Raf Sandou" },
         { title: "MOYA", artist: "박재범, LNGSHOT" },
         { title: "Heaven Can Wait", artist: "JUNNY" },
+        { title: "가잖아", artist: "소수빈" },
       ],
     },
     {
@@ -79,6 +81,7 @@ export type Song = {
         { title: "Who's Holding Donna Now?", artist: "DeBarge" },
         { title: "SAY MY NAME", artist: "DIMO REX" },
         { title: "You Are Not Alone", artist: "Michael Jackson" },
+        { title: "Superpowers", artist: "Daniel Caesar" },
       ],
     },
     {
@@ -96,6 +99,7 @@ export type Song = {
         { title: "The Way You Make Me Feel", artist: "Michael Jackson" },
         { title: "Changes", artist: "Charlie Puth" },
         { title: "Love On Top", artist: "Beyonce" },
+        { title: "Don't Look Back in Anger", artist: "Oasis" },
       ],
     },
     {
